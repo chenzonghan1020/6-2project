@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I went to know WangMin when every go;
+=======
+wangmin my goodfriend in gaodian highschool；
+>>>>>>> xiaowang
